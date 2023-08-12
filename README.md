@@ -21,7 +21,7 @@ Columns:
 
 - `Salary`: This column represents the annual salary of each employee in US dollars. The values in this column are numeric and can vary depending on factors such as job title, years of experience, and education level.
 # Model Selection
-As this dataset is very small and simple, I chose just 3 models for this experiment, without features selction, just with padronization to the models perfom better:
+As this dataset is very small and simple, I chose just 3 models for this experiment, without features selection, just with padronization to the models perfom better:
 - Linear Regression
 - Polynomial Regression
 - DecisionTreeRegressor
