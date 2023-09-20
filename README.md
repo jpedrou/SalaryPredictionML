@@ -1,7 +1,7 @@
 # Purpose
 Predict the salary of a company's employee.
 ## Creator
-[jpedrou](https://github.com/jpedrou)
+[@jpedrou](https://github.com/jpedrou)
 ## Tools 
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
 # About Dataset
