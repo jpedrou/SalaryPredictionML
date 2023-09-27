@@ -43,6 +43,12 @@ As the second option, I tried to improve the results using the polynomial versio
 As the last model, I chose the DecisionTree, because its work with a better features specification, given that it generates, as the name suggests, an unique tree that place in the top the most important variable of the data and making other branches from it. But, I got a very similar result with the other models that were chosen.
 
 # Conclusion
+| Models | MAE | R2
+|---|---|---
+|Linear Regression|	9986.16| 91.45%
+|polynomial Regression|	10287.40| 90.66%
+|DecisionTree Regressor|	9480.49| 90.41%
+
 The best model will depend of the  evaluation metric used, if it's **MAE** the best one will be DecisionTree Regressor, but if it's **R2** the best one will be Linear Regression.
 
 **OBS: To really check which of these models are actually the best one is necessary use cross validation techniques and extract the mean of scores, make tests of normality and, posteriorly, Hypothesis Test. I will not follow this adictional steps, because in this situation the database is very simple, being for learning purposes only.**
